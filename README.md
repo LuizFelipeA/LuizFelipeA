@@ -1,5 +1,8 @@
 # Luiz Felipe A. da Silva
 
+[![Linkedin Badge](https://img.shields.io/badge/-LuizFelipeA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-silva-b6197b161/)](https://www.linkedin.com/in/luiz-felipe-silva-b6197b161/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.f.silva1406@gmail.com)](mailto:luiz.f.silva1406@gmail.com)
+
 ### Hi there 👋
 
 I'm software engineer.
@@ -11,6 +14,3 @@ I'm software engineer.
 - ⚡ my favorite programming language: JavaScript
 
 ----
-
-[![Linkedin Badge](https://img.shields.io/badge/-rebeccamanzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-silva-b6197b161/)](https://www.linkedin.com/in/luiz-felipe-silva-b6197b161/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.f.silva1406@gmail.com)](mailto:luiz.f.silva1406@gmail.com)
