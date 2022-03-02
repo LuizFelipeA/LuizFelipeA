@@ -7,7 +7,9 @@
 
 I am a Backend software engineer and writer. I'm from Brazil living in São Paulo and currently working at Avanade Brazil.
 
-<img align="right" width="280" src="signature.png" />
+<a href="https://github.com/LuizFelipeA/LuizFelipeA">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeA&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 ### Abstract
 - 💻 I'm currently working full-time at **Avanade Brazil**.
