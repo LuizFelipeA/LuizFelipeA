@@ -7,28 +7,7 @@
 
 I am a Backend software engineer and writer. I'm from Brazil living in São Paulo and currently working at Avanade Brazil.
 
-<p align="center">
-  <a href="#">
-    <img align="center" width="280" src="signature.png" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeA&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=LuizFelipeA&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
-
-<img align="center" width="280" src="signature.png" />
+<img align="right" width="280" src="signature.png" />
 
 ### Abstract
 - 💻 I'm currently working full-time at **Avanade Brazil**.
