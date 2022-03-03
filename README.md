@@ -14,10 +14,10 @@ I am a Backend software engineer. I'm from Brazil living in São Paulo and curre
 - 😄 I use my spare time to play games and watch tv series.
 
 <a href="https://github.com/LuizFelipeA/LuizFelipeA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=8" />
+  <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=8" />
 </a>
 
 <a href="https://github.com/LuizFelipeA/LuizFelipeA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeA&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Luiz's GitHub Stats" />
+  <img align="center" width="440" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeA&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Luiz's GitHub Stats" />
 </a>
 
