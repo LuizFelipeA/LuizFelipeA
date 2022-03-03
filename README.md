@@ -18,5 +18,6 @@ I am a Backend software engineer. I'm from Brazil living in São Paulo and curre
 </a>
 
 <a href="https://github.com/LuizFelipeA/LuizFelipeA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Luiz's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeA&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Luiz's GitHub Stats" />
 </a>
+
