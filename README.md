@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/felipx_14/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@luiz-felipe-programmer)
 
-I am a Backend software engineer and writer. I'm from Brazil living in São Paulo and currently working at Avanade Brazil.
+I am a Backend software engineer. I'm from Brazil living in São Paulo and currently working at Avanade Brazil.
 
 ### Abstract
 - 💻 I'm currently working full-time at **Avanade Brazil**.
@@ -13,11 +13,10 @@ I am a Backend software engineer and writer. I'm from Brazil living in São Paul
 - 📝 I regulary write articles on [medium](https://medium.com/@luiz-felipe-programmer);
 - 😄 I use my spare time to play games and watch tv series.
 
-### 🔧 Technologies & Tools
-
 <a href="https://github.com/LuizFelipeA/LuizFelipeA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeA&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeA&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
 </a>
+
 <a href="https://github.com/LuizFelipeA/LuizFelipeA">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Luiz's GitHub Stats" />
 </a>
