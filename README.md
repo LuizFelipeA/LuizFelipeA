@@ -7,10 +7,6 @@
 
 I am a Backend software engineer and writer. I'm from Brazil living in São Paulo and currently working at Avanade Brazil.
 
-<a href="https://github.com/LuizFelipeA/LuizFelipeA">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeA&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
 ### Abstract
 - 💻 I'm currently working full-time at **Avanade Brazil**.
 - 🌱 Learning more about and studying: **Go / Golang**.
@@ -19,4 +15,9 @@ I am a Backend software engineer and writer. I'm from Brazil living in São Paul
 
 ### 🔧 Technologies & Tools
 
-### ✍ Medium
+<a href="https://github.com/LuizFelipeA/LuizFelipeA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipeA&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/LuizFelipeA/LuizFelipeA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Luiz's GitHub Stats" />
+</a>
