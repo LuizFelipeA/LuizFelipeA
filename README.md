@@ -17,6 +17,6 @@ I am a Backend software engineer and writer. I'm from Brazil living in São Paul
 - 📝 I regulary write articles on [medium](https://medium.com/@luiz-felipe-programmer);
 - 😄 I use my spare time to play games and watch tv series.
 
-### Languages and Tools
+### 🔧 Technologies & Tools
 
-
+### ✍ Medium
