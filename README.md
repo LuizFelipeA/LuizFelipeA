@@ -8,7 +8,6 @@
 I am a Backend software engineer. I'm from Brazil living in São Paulo and currently working at Avanade Brazil.
 
 ### Abstract
-- 💻 I'm currently working full-time at **Avanade Brazil**.
 - 🌱 Learning more about and studying: **Go / Golang**.
 - 📝 I regulary write articles on [medium](https://medium.com/@luiz-felipe-programmer);
 - 😄 I use my spare time to play games and watch tv series.
