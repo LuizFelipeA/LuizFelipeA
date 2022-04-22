@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/felipx_14/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@luiz-felipe-programmer)
 
-I am a Backend software engineer. I'm from Brazil living in São Paulo and currently working at Avanade Brazil.
+I am a Senior BackEnd Engineer. I'm from Brazil living in São Paulo and currently working at AgileEngine.
 
 ### Abstract
 - 🌱 Learning more about and studying: **Go / Golang**.
