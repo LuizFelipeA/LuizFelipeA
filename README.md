@@ -8,7 +8,7 @@
 I am a Senior BackEnd Engineer. I'm from Brazil living in São Paulo and currently working at AgileEngine.
 
 ### Abstract
-- 🌱 Learning more about and studying: **Go / Golang**.
+- 🌱 Learning more about and studying: Cloud.
 - 📝 I regulary write articles on [medium](https://medium.com/@luiz-felipe-programmer);
 - 😄 I use my spare time to play games and watch tv series.
 
